@@ -11,5 +11,5 @@ gsap.utils.toArray(".panel").forEach((panel) => {
 
 
 ScrollTrigger.create({
-  snap: 1 / 4 // snap whole page to the closest section!
+  snap: 1 / 4 
 });
