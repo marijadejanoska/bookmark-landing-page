@@ -10,6 +10,6 @@ gsap.utils.toArray(".panel").forEach((panel) => {
 });
 
 
-ScrollTrigger.create({
-  snap: 1 / 4 
-});
+// ScrollTrigger.create({
+//   snap: 1 / 4 
+// });
