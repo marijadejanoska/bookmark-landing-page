@@ -15,6 +15,7 @@
     padding: 0;
     list-style: none;
   }
+ 
   .menu li {
     border-top: 1px solid var(--grayishBlue);
   }
@@ -236,7 +237,7 @@
   }
   .download .u-wrapper > .u-p {
     margin-bottom: 3em;
-    max-width: 500px;
+    max-width: 400px;
     margin: auto;
   }
   .download-grid {
@@ -432,7 +433,7 @@
     display: none !important;
   }
   .u-wrapper {
-    max-width: 1280px;
+    max-width: 1100px;
     margin: auto;
     padding: 0 1em;
   }
